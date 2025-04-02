@@ -1,6 +1,10 @@
 'Codigo'
 > Text that is a quote
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 Haciendo un triángulo con bucles
 Escribe un bucle que realice siete llamadas a console.log para mostrar el siguiente triángulo:
 

@@ -5,6 +5,16 @@
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
+Bloque de código
+(utiliza tres comillas de ejecución sin espacios)
+
+` ` `
+<! DOCTYPE html>
+<Html>
+<cuerpo><h1>Mi primer encabezado</h1>
+<P>Mi primer párrafo.</p></cuerpo>
+</html>
+` ` `
 Haciendo un triángulo con bucles
 Escribe un bucle que realice siete llamadas a console.log para mostrar el siguiente triángulo:
 

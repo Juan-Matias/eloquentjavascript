@@ -1,4 +1,6 @@
 'Codigo'
+> Text that is a quote
+
 Haciendo un triángulo con bucles
 Escribe un bucle que realice siete llamadas a console.log para mostrar el siguiente triángulo:
 
